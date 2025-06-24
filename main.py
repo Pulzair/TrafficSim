@@ -10,3 +10,5 @@ def read_grid(filename):
 def print_grid(grid):
     for row in grid:
         print(' '.join(row))
+
+print("hello world")
